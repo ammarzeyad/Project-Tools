@@ -65,3 +65,29 @@
 - Linux have a light size to install it and more speed than the other OS system.
 
 - Linux have a great support most of the programming languages like the C, C++, CSS, Java, JavaScript, HTML, PHP, Perl, Python, Ruby.
+
+## Software Development Methodology
+
+- What is Software Development Methodology ?
+
+- software development methodolgy is a process of a group of processes that is use in software development.
+
+## what i use and why ?
+
+i use the Agile Methodology and why because the tasks can broken in to short sprints that takes about 1 - 4 weeks to complete it and by this Methodology i can have a feedback from the customers and i do the change to it. 
+
+## the Avdantegs for this methodology
+
+- The project has a few errors bucause it split into division of tasks and getting a review of every step we take in the project.
+
+- Due to frequent and transparent development, there is clarity between team members during development.
+
+- Changes in project specifications are easily addressed and implemented with minimal disruption to the timeframe.
+
+## the Disavdantegs for this methodology
+
+- It is possible that this method may cause a loss of concentration in the members due to the frequent demand for changes.
+
+- for the part of documentation in this method it take a long time to git done.
+
+- it fouce in the feedback and the discussions which it will take a too time  for the team.
