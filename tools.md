@@ -74,7 +74,7 @@
 
 ## what i use and why ?
 
-i use the Agile Methodology and why because the tasks can broken in to short sprints that takes about 1 - 4 weeks to complete it and by this Methodology i can have a feedback from the customers and i do the change to it. 
+i use the Agile Methodology and why because the tasks can broken in to short sprints that takes about 1 - 4 weeks to complete it and by this Methodology i can have a feedback from the customers and i do the change to it.
 
 ## the Avdantegs for this methodology
 
@@ -91,3 +91,8 @@ i use the Agile Methodology and why because the tasks can broken in to short spr
 - for the part of documentation in this method it take a long time to git done.
 
 - it fouce in the feedback and the discussions which it will take a too time  for the team.
+
+• Black box testing we care about the output
+• Linux because its an open source and its fast
+• Vs code benefits
+• Github open community it enhances the communication between the team members by using the same repo and write code together
